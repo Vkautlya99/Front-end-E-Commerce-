@@ -33,7 +33,7 @@ const Home = () => {
           </ul>
         </div>
 
-        <div className="w-full md:w-9/12 mt-8 md:mt-0 h-96 relative">
+        <div className="w-full md:w-9/12 mt-8 md:mt-0 h-96 relative opacity-100">
           <img src={firstImg} alt="" className="h-full w-full " />
           <div className="absolute top-6 left-6">
             <p className="text-gray-500 mb-1 font-medium">Shop with v-KART</p>
